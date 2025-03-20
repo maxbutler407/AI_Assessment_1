@@ -1,6 +1,8 @@
 # Artificial Intelligence Assessment 1
 I was tasked to complete the following 2 tasks in Python, using existing code. The details for the tasks are below.
 
+Config.py can be altered to change the settings in the world.
+
 NOTE: to change the search algorithm used in Task 1, uncomment the chosen algorithm within the makeMove() method inside the Link.py file. For Task 2, this needs to be done twice within the makeAMove() method inside puzzleWorld.py.
 
 # wumpus
