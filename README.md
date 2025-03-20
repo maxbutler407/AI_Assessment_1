@@ -29,6 +29,9 @@ initial configuration "puzzle" in puzzle.py into the final state
 "endState".
 
 ## Task 1
+
+AIM: Link must collect all the gold without falling into a pit or being attacked by the wumpus.
+
 For 1, your code needs to specify the value that the function
 makeMove() in link.py returns. There are four legal values for
 makeMove() to return:
@@ -54,6 +57,9 @@ move, is easier to solve than the dynamic version, so you might want
 to start out by looking at this version.
 
 ## Task 2
+
+AIM: Both Link and the wumpus must move so that their locations match with Link and wumpus in the 2nd window.
+
 For 2, your code needs to specify the function makeAMove() in
 puzzleWorld.py. As you will see from looking at the code, what
 makeAMove() currently does is to move Link and the Wumpus (using
